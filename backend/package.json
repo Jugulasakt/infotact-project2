@@ -1,0 +1,10 @@
+{
+  "name": "project-1-backend-root",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "install:backend": "npm --prefix ./backend install",
+    "dev": "npm --prefix ./backend run dev",
+    "start": "npm --prefix ./backend run start"
+  }
+}
